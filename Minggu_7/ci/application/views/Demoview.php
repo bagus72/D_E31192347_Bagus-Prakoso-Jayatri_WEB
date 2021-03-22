@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Demo View CSS</title>
-	<meta name="Sendy" content=""/>
+	<meta name="Bagus" content=""/>
 	<!--<style type="text/css">
         h2{
             color: #f00;
